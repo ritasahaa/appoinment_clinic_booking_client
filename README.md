@@ -2,10 +2,6 @@
 
 React.js frontend for the Appointment Clinic Booking Admin system.
 
-## ⚠️ Important Note
-
-It is designed for interview/training purposes to test a developer's ability to integrate REST APIs.
-
 ## Features
 
 - Modern React with Vite
